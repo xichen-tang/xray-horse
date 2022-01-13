@@ -9,7 +9,7 @@ keras-metrics==1.1.0
 Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 numpy==1.17.0
-Pillow==6.1.0
+Pillow==9.0.0
 pkg-resources==0.0.0
 tensorboard==1.14.0
 tensorflow==1.14.0
